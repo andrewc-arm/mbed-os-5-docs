@@ -8,6 +8,20 @@
         "branch": "master"
     },
     {
+		"title": "Welcome",
+		"description": "Introduction to the ",
+		"slug": "welcome",
+		"type": "markdown",
+		"chapters": [{
+			"title": "Mbed OS",
+			"intro": {
+				"type": "markdown",
+				"url": "https://github.com/ARMmbed/mbed-os-5-docs/blob/development/docs/welcome/welcome.md"
+			},
+			"sources": []
+		}]
+	},
+    {
         "title": "Introduction",
         "description": "Introducing Mbed OS: the overview, architecture, features and licensing",
         "slug": "introduction",
