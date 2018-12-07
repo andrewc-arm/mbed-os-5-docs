@@ -16,7 +16,7 @@
 			"title": "Mbed OS",
 			"intro": {
 				"type": "markdown",
-				"url": "https://github.com/ARMmbed/mbed-os-5-docs/blob/development/docs/welcome/welcome.md"
+				"url": "https://github.com/ARMmbed/mbed-os-5-docs/blob/welcome-book/docs/welcome/welcome.md"
 			},
 			"sources": []
 		}]
