@@ -10,7 +10,7 @@ references:
 executors:
   doc_builder:
     docker:
-      - image: mbed/doc_builder:latest
+      - image: mbed/doc_builder:os-welcome-styles-1133
         auth:
           username: $DOCKER_USER
           password: $DOCKER_PASS
