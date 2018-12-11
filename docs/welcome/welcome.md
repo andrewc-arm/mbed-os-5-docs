@@ -1,32 +1,32 @@
 <div class="homepage">
     <section>
         <h1>Welcome to the Mbed OS Documentation</h1>
-        <div class="horizontal-list text-center">
-            <div class="columns large-3 medium-12 small-12">
+        <ul class="icon-list">
+            <li>
                 <a href="https://os.mbed.com/contributing">
                     <i class="fa fa-github-square"></i>
                     Contributing to Mbed OS
                 </a>
-            </div>
-            <div class="columns large-3 medium-12 small-12">
+            </li>
+            <li>
                 <a href="https://os.mbed.com/support">
                     <i class="fa fa-question-circle"></i>
                     Support
                 </a>
-            </div>
-            <div class="columns large-3 medium-12 small-12">
+            </li>
+            <li>
                 <a href="../introduction/mbed-os-2-and-mbed-os-5.html">
                     <i class="fa fa-info-circle"></i>
                     Mbed OS 2 vs OS 5
                 </a>
-            </div>
-            <div class="columns large-3 medium-12 small-12">
+            </li>
+            <li>
                 <a href="https://os.mbed.com/releases">
                     <i class="fa fa-bullhorn"></i>
                     Releases
                 </a>
-            </div>
-        </div>
+            </li>
+        </ul>
         <p>
             The reference documentation for the Mbed OS APIs and tools, 
             to help you create and deploy IoT devices based on Arm microcontrollers.
