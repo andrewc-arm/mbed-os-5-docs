@@ -48,7 +48,7 @@
         <p>
             We release Mbed OS under an Apache 2.0 license, so you can confidently use it in commercial and personal projects. 
             For more information about licensing, please see our 
-            <a href="../reference/license.html">licensing documentation</a>.
+            <a href="../contributing/license.html">licensing documentation</a>.
         </p>
     </section>
 </div>
