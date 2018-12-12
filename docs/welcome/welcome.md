@@ -12,7 +12,7 @@
             on writing C/C++ applications that call functionality available on a range of hardware. 
             Mbed OS applications can be reused on any Mbed-compatible platform.
         </p>
-    </section
+    </section>
     <section>
         <h3>Quick links</h3>
         <ul class="icon-list">
