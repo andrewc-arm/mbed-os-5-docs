@@ -41,9 +41,8 @@
         <p>
             Arm Mbed OS 5 is a superset of Arm Mbed OS 2. 
             This means that Mbed OS 5 is Mbed OS 2 but with more features, such as an RTOS.
-            <a href="..//introduction/mbed-os-2-and-mbed-os-5.html">
-                Find out more about Mbed OS versions and how to migrate from Mbed OS 2 to Mbed OS 5
-            </a>.
+            For more information about Mbed OS versions and how to migrate from Mbed OS 2 to Mbed OS 5, please see our
+            <a href="..//introduction/mbed-os-2-and-mbed-os-5.html">versioning documentation</a>.
         </p>
     </section>
     <section>
